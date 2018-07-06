@@ -1,0 +1,44 @@
+[
+	{
+		"type": "facePeople",
+		"url": "https://raw.githubusercontent.com/pikachu987/twemoji/gh-pages/emoji/facePeople/",
+		"startRow": 0,
+		"endRow": 985
+	}, {
+		"type": "animalNature",
+		"url": "https://raw.githubusercontent.com/pikachu987/twemoji/gh-pages/emoji/animalNature/",
+		"startRow": 0,
+		"endRow": 176
+	}, {
+		"type": "eat",
+		"url": "https://raw.githubusercontent.com/pikachu987/twemoji/gh-pages/emoji/eat/",
+		"startRow": 0,
+		"endRow": 100
+	}, {
+		"type": "activity",
+		"url": "https://raw.githubusercontent.com/pikachu987/twemoji/gh-pages/emoji/activity/",
+		"startRow": 0,
+		"endRow": 648
+	}, {
+		"type": "location",
+		"url": "https://raw.githubusercontent.com/pikachu987/twemoji/gh-pages/emoji/location/",
+		"startRow": 0,
+		"endRow": 116
+	}, {
+		"type": "item",
+		"url": "https://raw.githubusercontent.com/pikachu987/twemoji/gh-pages/emoji/item/",
+		"startRow": 0,
+		"endRow": 265
+	}, {
+		"type": "sign",
+		"url": "https://raw.githubusercontent.com/pikachu987/twemoji/gh-pages/emoji/sign/",
+		"startRow": 0,
+		"endRow": 276
+	}, {
+		"type": "flag",
+		"url": "https://raw.githubusercontent.com/pikachu987/twemoji/gh-pages/emoji/flag/",
+		"startRow": 0,
+		"endRow": 267
+	}
+
+]
